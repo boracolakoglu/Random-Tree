@@ -1,0 +1,13 @@
+C:\Users\Bora\Desktop\I cant C#\RandomTree\Random Tree\Random Tree\bin\Debug\netcoreapp3.1\Random Tree.exe
+C:\Users\Bora\Desktop\I cant C#\RandomTree\Random Tree\Random Tree\bin\Debug\netcoreapp3.1\Random Tree.deps.json
+C:\Users\Bora\Desktop\I cant C#\RandomTree\Random Tree\Random Tree\bin\Debug\netcoreapp3.1\Random Tree.runtimeconfig.json
+C:\Users\Bora\Desktop\I cant C#\RandomTree\Random Tree\Random Tree\bin\Debug\netcoreapp3.1\Random Tree.runtimeconfig.dev.json
+C:\Users\Bora\Desktop\I cant C#\RandomTree\Random Tree\Random Tree\bin\Debug\netcoreapp3.1\Random Tree.dll
+C:\Users\Bora\Desktop\I cant C#\RandomTree\Random Tree\Random Tree\bin\Debug\netcoreapp3.1\Random Tree.pdb
+C:\Users\Bora\Desktop\I cant C#\RandomTree\Random Tree\Random Tree\obj\Debug\netcoreapp3.1\Random Tree.csprojAssemblyReference.cache
+C:\Users\Bora\Desktop\I cant C#\RandomTree\Random Tree\Random Tree\obj\Debug\netcoreapp3.1\Random Tree.csproj.CoreCompileInputs.cache
+C:\Users\Bora\Desktop\I cant C#\RandomTree\Random Tree\Random Tree\obj\Debug\netcoreapp3.1\Random Tree.AssemblyInfoInputs.cache
+C:\Users\Bora\Desktop\I cant C#\RandomTree\Random Tree\Random Tree\obj\Debug\netcoreapp3.1\Random Tree.AssemblyInfo.cs
+C:\Users\Bora\Desktop\I cant C#\RandomTree\Random Tree\Random Tree\obj\Debug\netcoreapp3.1\Random Tree.dll
+C:\Users\Bora\Desktop\I cant C#\RandomTree\Random Tree\Random Tree\obj\Debug\netcoreapp3.1\Random Tree.pdb
+C:\Users\Bora\Desktop\I cant C#\RandomTree\Random Tree\Random Tree\obj\Debug\netcoreapp3.1\Random Tree.genruntimeconfig.cache
