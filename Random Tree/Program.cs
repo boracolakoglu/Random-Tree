@@ -44,9 +44,9 @@ namespace Random_Tree
                     case "/":
                         return calculateTree(root.leftChild) / calculateTree(root.rightChild);
                     case "+":
-                        return calculateTree(root.leftChild) / calculateTree(root.rightChild);
+                        return calculateTree(root.leftChild) + calculateTree(root.rightChild);
                     case "-":
-                        return calculateTree(root.leftChild) / calculateTree(root.rightChild);
+                        return calculateTree(root.leftChild) - calculateTree(root.rightChild);
                     default:
                         return Int32.Parse(root.value);
                 }
